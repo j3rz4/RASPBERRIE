@@ -13,3 +13,56 @@ Coordenadas corregidas
 1920,1080,3840,2160
 0,2160,1920,3240
 1920,2160,3840,3240
+
+video de prueba para su estiramiento
+intro_3d.mp4
+intro_3c.mp4
+en:
+vd_listf5a.txt
+en la sexta pantalla como prueba
+
+
+codigo original de intro en rpi6 en vd_listf5a.txt
+intro_3d.mp4 0,0,3840,2160 1920,1080 org.mpris.MediaPlayer2.omxplayer1
+intro_3c.mp4 0,2160,3840,3240 1920,540 org.mpris.MediaPlayer2.omxplayer1
+rpi6 alterado
+intro_3d.mp4 0,0,3840,3240 1920,1080 org.mpris.MediaPlayer2.omxplayer1
+
+
+
+codigo original de intro en rpi1 en vd_listf5a.txt
+intro_3d.mp4 0,0,3840,2160 1920,1080 org.mpris.MediaPlayer2.omxplayer1
+intro_3c.mp4 0,2160,3840,3240 1920,540 org.mpris.MediaPlayer2.omxplayer1
+rpi1 alterado
+
+
+
+codigo original de intro en rpi2
+  intro_3d.mp4 0,0,3840,2160 1920,1080 org.mpris.MediaPlayer2.omxplayer1
+  intro_3c.mp4 0,2160,3840,3240 1920,540 org.mpris.MediaPlayer2.omxplayer1
+rpi2 alterado
+
+
+
+codigo original de intro en rpi3
+intro_3d.mp4 0,0,3840,2160 1920,1080 org.mpris.MediaPlayer2.omxplayer1
+intro_3c.mp4 0,2160,3840,3240 1920,540 org.mpris.MediaPlayer2.omxplayer1
+rpi3 alterado
+
+
+codigo original de intro en rpi4
+intro_3d.mp4 0,0,3840,2160 1920,1080 org.mpris.MediaPlayer2.omxplayer1
+intro_3c.mp4 0,2160,3840,3240 1920,540 org.mpris.MediaPlayer2.omxplayer1
+rpi4 alterado
+
+
+
+codigo original de intro en rpi5
+intro_3d.mp4 0,0,3840,2160 1920,1080 org.mpris.MediaPlayer2.omxplayer1
+intro_3c.mp4 0,2160,3840,3240 1920,540 org.mpris.MediaPlayer2.omxplayer1
+rpi5 alterado
+
+
+
+
+
